@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<launch>
+  <!--
+    This file 'pretends' to load a driver for a UR robot, by accepting similar
+    arguments and playing a similar role (ie: starting the driver node (in this
+    case Gazebo) and loading the ros_control controllers).
+
+    Some of the arguments to this .launch file will be familiar to those using
+    the ur_robot_driver with their robot.
+
+    Other parameters are specific to Gazebo.
+
+    Note: we spawn and start the ros_control controllers here, as they are,
+    together with gazebo_ros_control, essentially the replacement for the
+    driver which would be used with a real robot.
+  -->
+
+
+</launch>
