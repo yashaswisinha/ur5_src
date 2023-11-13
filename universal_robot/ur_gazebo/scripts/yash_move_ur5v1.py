@@ -22,7 +22,7 @@ from math import sin,cos
 import numpy as np
 
 
-print("Mai gadha")
+print("Mai gadha hun")
 
 def Call():
     
